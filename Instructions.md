@@ -11,7 +11,7 @@ Question Answering: Extract an answer from a text given a question, showing the 
 
 Translation: Translate 3-5 sentences from English to French.
 
-Activity 2: Programming Task for NLP Transformer Solutions
+# Activity 2: Programming Task for NLP Transformer Solutions
 
 Masked Language Modelling: Use the distilbert-base-uncased model to fill in masked words in a text sequence.
 
